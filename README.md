@@ -1,8 +1,7 @@
 # FuzzyArcLoss
 Python code for FuzzyArcLoss: Dynamic Margin Adjustment for Robust Recognition Across Domains paper
-<p align="center">
-  <img src="[https://example.com/your_image.png](https://github.com/user-attachments/assets/366e360f-8078-4610-a181-503e943dce2f)" alt="Centered Image" width="300" />
-</p>
+![image](https://github.com/user-attachments/assets/366e360f-8078-4610-a181-503e943dce2f)
+
 
 
 Recognition systems must cope with formidable challenges including extreme pose variations, occlusions, 
